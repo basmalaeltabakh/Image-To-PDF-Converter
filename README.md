@@ -26,6 +26,8 @@ This project is a simple **Image to PDF Converter** built using **Python** and *
 2. Enter a name for the output **PDF file** (or leave it blank to use the default name `output.pdf`).
 3. Click **"Convert to PDF"** to generate the PDF.
 4. A message will confirm the successful conversion, and the PDF will be saved in the same directory.
+   ![Screenshot 2025-02-10 233300](https://github.com/user-attachments/assets/90293762-f228-4370-a417-a2ad43812bce)
+
 
 ##  Tech Stack
 - **Python** (Main Language)
