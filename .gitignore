@@ -1,0 +1,32 @@
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+.env
+
+.DS_Store
+Thumbs.db
+
+*.pdf
+*.log
+*.tmp
+
+# Ignore Tkinter cache files
+*.tcl
+*.tk
+
+# Ignore compiled Python files
+*.pyo
+
+# Ignore IDE files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+.vscode/
+.idea/
+.vs/
+
